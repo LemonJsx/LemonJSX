@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 - **Frameworks**: React, Node.js, Django
 - **Tools**: Git, Docker, VS Code, Cursor
 
-![ShoLogo](./imgs/ShoLogoNormal.png)
-  
+<img src="./imgs/ShoLogoNormal.png" width="100">
+
 ![GitHub followers](https://img.shields.io/github/followers/LemonJsx?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Sho000007?style=social)
