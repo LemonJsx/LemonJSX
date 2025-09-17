@@ -1,3 +1,9 @@
 # Hello, I'm Sho!👋
 
 Welcome to my GitHub profile! Here are some of my projects and interests.
+
+## Skills
+
+- **Languages**: Python, C, PHP, HTML, CSS
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, VS Code, Cursor
